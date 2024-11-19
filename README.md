@@ -1,6 +1,6 @@
-# DECODING RADIOLOGISTS INTENTIONS A NOVEL SYSTEM FOR ACCURATE REGION IDENTIFICATION IN CHEST X RAY
+# Reverse Engineer radiologist intention. 
 Radiologist intension detection using Large language models 
-
+The code will be available here soon. 
 ## Abstract:
 
 In the realm of chest X-ray (CXR) image analysis, radiologists meticulously examine various regions, documenting
